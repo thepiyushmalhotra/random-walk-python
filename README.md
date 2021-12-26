@@ -5,5 +5,10 @@ A highly basic program which is created to just display how the "random walk" al
 
 ![Random Walk Example](https://user-images.githubusercontent.com/46517096/147400189-1cce9632-773d-454c-837e-ec52a4acece8.png)
 
-
 More Info on Random Walk Algorithm: https://en.wikipedia.org/wiki/Random_walk
+
+## To run the Program
+
+1. Clone the Repo - https://github.com/thepiyushmalhotra/random-walk-python or download the Zip
+2. cd into the main directory of the repo
+3. Run the randomWalk.py file.
